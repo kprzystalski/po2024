@@ -72,3 +72,19 @@ Należy stworzyć aplikację kliencką wykorzystując bibliotekę React.js. W ra
 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose
 
 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+
+
+
+**Zad 6 Mobile first**
+(Android)
+
+3.0 stworzenie listy kategorii oraz produktów
+
+3.5 dodać koszyk
+
+4.0 stworzyć bazę w Realmie
+
+4.5 dodać płatności w Stripe
+
+5.0 logowanie i rejestrację via Oauth2 dodać
+
